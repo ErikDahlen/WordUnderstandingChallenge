@@ -1,0 +1,101 @@
+Word 1,Word 2,Word 3,Word 4,Manual/Random,Correct,Max score,Random score
+apple,red,green,banana,M,"w2, w4",1,0.5
+car,tiger,house,table,M,w1,2,0.5
+lion,tiger,snake,cat,M,w3,2,0.5
+cat,dog,bicycle,bed,M,"w3, w4",1,0.5
+cat,dog,bicycle,chair,M,w3,2,0.5
+run,drive,flower,dive,M,w3,2,0.5
+car,drive,tire,tv,M,w4,2,0.5
+lamp,table,chair,mugg,M,w1,2,0.5
+apple,red,green,rainbow,M,"w1, w4",1,0.5
+rainbow,red,green,apple,M,"w1,w4",1,0.5
+plant,run,leaf,flower,M,w2,2,0.5
+mouse,car,cat,dog,M,w2,2,0.5
+airplane,car,cat,dog,M,w1,2,0.5
+blue,apple,red,rainbow,M,w2,2,0.5
+road,car,sign,fruit,M,w4,2,0.5
+tree,road,flower,fruit,M,w2,2,0.5
+butter,milk,juice,picture,M,w4,2,0.5
+milk,lamp,juice,butter,M,w2,2,0.5
+milk,bottle,juice,butter,M,"w2, w4",1,0.5
+snow,bottle,water,chair,M,"w3, w4",1,0.5
+snow,bottle,water,rain,M,w2,2,0.5
+youtube,red,tv,banana,M,w4,2,0.5
+youtube,red,tv,mobile,M,w4,2,0.5
+mud,dog,flower,bird,M,w1,2,0.5
+mud,brick,flower,bird,M,"w2, w4",1,0.5
+cloud,road,rainbow,bird,M,w2,2,0.5
+cloud,rain,rainbow,bird,M,w4,2,0.5
+shirt,rain,jeans,socks,M,w2,2,0.5
+shirt,jeans,bed,socks,M,w3,2,0.5
+shirt,jeans,bed,floors,M,w4,0,0.5
+radiator,jeans,house,floors,M,w2,2,0.5
+radiator,grass,house,floors,M,w2,2,0.5
+beach,grass,house,floors,M,w1,2,0.5
+beach,couch,house,floors,M,w1,2,0.5
+beach,water,wave,apple,M,w4,2,0.5
+beach,water,wave,sand,M,"w1, w3",1,0.5
+bathroom,house,car,toilet,M,w3,2,0.5
+bathroom,house,bird,toilet,M,w3,2,0.5
+bathroom,house,water,toilet,M,"w2, w3",1,0.5
+bathroom,ant,dog,toilet,M,w2,2,0.5
+wind,winter,water,weather,M,"w2, w3",1,0.5
+wind,beach,water,weather,M,w2,2,0.5
+wind,car,water,weather,M,w3,2,0.5
+train,toilet,house,terrace,M,w1,2,0.5
+train,ant,house,terrace,M,w2,2,0.5
+train,toilet,bathroom,bedroom,M,w1,2,0.5
+cable,network,mother,socket,M,w3,2,0.5
+cable,lion,socket,electricity,M,w2,2,0.5
+cat,electracity,cable,car,M,w1,2,0.5
+button,electracity,cable,dog,M,w4,2,0.5
+airplane,socks,tv,terrace,R,"w1, w2, w4",1,0.75
+tiger,table,banana,network,R,"w2, w4",1,0.5
+bicycle,toilet,socket,bathroom,R,w1,2,0.5
+brick,blue,wave,rain,R,w1,2,0.5
+mouse,bedroom,socket,bathroom,R,w1,2,0.5
+radiator,blue,wave,tiger,R,"w1, w4",1,0.5
+banana,tv,socket,cloud,R,"w1, w3",1,0.5
+bed,flower,button,milk,R,w3,2,0.5
+cable,red,socks,network,R,w2,2,0.5
+grass,rain,bicycle,button,R,"w1, w4",1,0.5
+sign,dive,brick,youtube,R,w2,2,0.5
+tiger,rain,couch,green,R,"w1, w3, w4",1,0.75
+road,milk,radiator,floors,R,w2,2,0.5
+tv,cat,mother,mud,R,w1,1,0.5
+brick,radiator,wind,youtube,R,"w3, w4",1,0.5
+car,bathroom,lion,sign,R,"w2, w3",1,0.5
+cable,bicycle,table,ant,R,w4,2,0.5
+milk,winter,house,flower,R,"w2, w3",1,0.5
+drive,floors,shirt,electricity,R,w1,2,0.5
+weather,mother,drive,tree,R,"w1, w2, w3",1,0.75
+snake,youtube,airplane,lion,R,w2,2,0.5
+car,cable,cat,snake,R,w2,2,0.5
+red,floors,weather,mugg,R,w4,2,0.5
+tree,dive,tiger,mouse,R,w2,2,0.5
+cloud,green,toilet,electricity,R,"w1, w3",1,0.5
+bird,mouse,airplane,ant,R,w3,2,0.5
+bicycle,wave,winter,lamp,R,"w2, w3",1,0.5
+cloud,grass,socks,cat,R,"w1, w3",1,0.5
+network,rain,tire,car,R,w2,2,0.5
+dog,couch,network,bathroom,R,"w1, w3",1,0.5
+network,car,tiger,bed,R,"w1, w3",1,0.5
+brick,fruit,sand,run,R,"w1, w4",1,0.5
+red,bed,beach,tree,R,"w1, w2, w4",1,0.75
+bird,red,jeans,snake,R,"w2, w3",1,0.5
+bottle,mud,road,dog,R,w4,2,0.5
+dog,fruit,apple,bicycle,R,w4,2,0.5
+bed,airplane,road,terrace,R,w2,2,0.5
+radiator,butter,lion,airplane,R,w3,2,0.5
+cloud,floors,picture,cable,R,"w1, w2",1,0.5
+mother,car,bird,mugg,R,w4,2,0.5
+network,train,butter,terrace,R,"w1, w3",1,0.5
+bed,rain,tree,bedroom,R,w3,2,0.5
+green,socket,juice,weather,R,w2,2,0.5
+banana,cat,milk,bedroom,R,w4,2,0.5
+brick,run,apple,socket,R,w2,2,0.5
+lamp,bicycle,airplane,electricity,R,"w1, w2, w4",1,0.75
+cable,fruit,terrace,jeans,R,w2,2,0.5
+wind,rain,mud,blue,R,"w3, w4",1,0.5
+road,table,socks,tiger,R,w4,2,0.5
+ant,electricity,bottle,youtube,R,"w1, w4",1,0.5

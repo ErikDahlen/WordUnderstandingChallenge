@@ -1,0 +1,14 @@
+Model name:,Mistral Instruct
+Full query:,"Hi, let's play a game where you should guess which out of 4 words does not belong. Provide an explaination of why afterwards. Here are the words: w1, w2, w3, and w4."
+Full model file:,mistral-7b-instruct-v0.1.Q4_0.gguf
+Model size:,7 billion parameters
+Temperature:,0
+Prompt batch size:,128
+Max length:,4096
+Test set:,Set 1
+Score:,94
+Test set max score:,164
+Random score:,51.25
+Score procent:,57.3
+Random score procent:,31.25
+Test period:,February 2024
